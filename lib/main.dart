@@ -41,7 +41,6 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
 
-
       routes: {
         "/":(context)=>OnBoardingPage(),
       },
