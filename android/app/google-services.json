@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798848005762",
+    "project_id": "people-pea",
+    "storage_bucket": "people-pea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798848005762:android:9a083d837d6bea2c4ee69b",
+        "android_client_info": {
+          "package_name": "com.example.people_peace_solution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798848005762-9ogaa2g0mlkj7oou4aiedd8dm9eo3448.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.people_peace_solution",
+            "certificate_hash": "3476836ada57cf4a2fe0d67c090bdfd0bc957294"
+          }
+        },
+        {
+          "client_id": "798848005762-br7d3ffqrp6kkebjvkd5lr7grtkd1mjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHcMJolkGcBWHqO0Js7tovqj0UFCBEXSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798848005762-br7d3ffqrp6kkebjvkd5lr7grtkd1mjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
